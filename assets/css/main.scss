@@ -271,26 +271,15 @@ h1 {
   }
 }
 
+// filter by event type eyebrow
+
 .eyebrow {
   width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
   p {
-    width: 96%;
-    max-width: 1200px;
-    margin: 0 auto;
     padding-left: 0;
     color: $inset-text-color;
-  }
-}
-
-@media screen and (min-width: 1000px) {
-  .eyebrow p {
-    width: 90%;
-  }
-}
-
-@media screen and (min-width: 1400px) {
-  .eyebrow p {
-    width: 80%;
   }
 }
 
