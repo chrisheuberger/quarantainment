@@ -2,6 +2,7 @@
 # closing curly quotes: ”
 # apostrophe: ’
 events:
+  - live: "Airbnb online [[https://www.airbnb.com/s/experiences[+]experiences]]."
   - live: "Virtual [[https://creativemornings.com/blog/creativemornings-goes-virtual[+]CreativeMornings]]."
   - live: "Caveat [[https://www.caveat.nyc/[+]livestreams]] and [[https://www.youtube.com/channel/UC3b57CBtNx-cXPRdldkst7g/videos[+]YouTube channel]]."
   - live: "The Greene Space [[https://www.thegreenespace.org/[+]livestreams]]."
@@ -24,6 +25,7 @@ events:
   - live: "[[https://explore.org/livecams[+]Explore.org nature web cams]] (always online and fun to browse)."
   - recorded-long: "[[https://pressroom.warnermediagroup.com/us/media-release/hbo-0/stayhomeboxoffice/hbo-encourages-viewers-stayhomeboxoffice-hundreds-hours-free-programming[+]HBO is streaming]] dozens of shows, documentaries, and movies for free during April."
   - recorded: "92Y [[https://www.92y.org/archives[+]events archive]]."
+  - recorded: "[[https://www.youtube.com/channel/UCdmPjhKMaXNNeCr1FjuMvag/videos[+]“The Shows Must Go On!,”]] a virtual series of Andrew Lloyd Webber Broadway musicals, free every Friday on YouTube."
   - recorded: "Met Opera [[https://www.metopera.org/[+]performances]]. View schedule [[https://www.metopera.org/about/press-releases/[+]here]]."
   - recorded: "[[http://lincolncenter.org/lincoln-center-at-home[+]Lincoln Center at Home]]."
   - recorded-long: "Patrick Stewart is reading [[https://www.instagram.com/p/B-DeQAGh4eS/[+]a Shakespeare sonnet every day]] on Instagram."

@@ -61,7 +61,7 @@ layout: default
   </main>
 
   <footer>
-    <p>Created by <a href="https://radishlab.com/" target="_blank">Radish Lab</a> <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span> Suggestions welcome! Submit them <a href="mailto:chris@radishlab.com" target="_blank">here</a>. <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span> If you can, please consider donating to Feeding America <a href="https://www.feedingamerica.org/" target="_blank">here</a>.</p>
+    <p>Created by <a href="https://radishlab.com/" target="_blank">Radish Lab</a> <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span> Suggestions welcome! Submit them <a href="mailto:chris@radishlab.com" target="_blank">here</a>. <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span> If you can, please consider donating to <a href="https://www.feedingamerica.org/" target="_blank">Feeding America</a>.</p>
   </footer>
   
 </div>
