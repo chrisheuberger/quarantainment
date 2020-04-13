@@ -6,7 +6,7 @@ layout: default
   
   <main class="wrapper">
 
-    <h1><span>Online Events</span><span>and Entertainment</span><span>for Quarantine</span></h1>
+    <h1><span>Online Events</span> <span>and Entertainment</span> <span>for Quarantine</span></h1>
 
     <div class="eyebrow">
       <p>Filter by Event Type</p>
