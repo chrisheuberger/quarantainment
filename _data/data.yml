@@ -2,6 +2,8 @@
 # closing curly quotes: ”
 # apostrophe: ’
 events:
+  - live: "Sofar Sounds [[https://www.sofarsounds.com/v/listeningroom[+]online listening room]] lets artists host live shows."
+  - live: "Story Collider's [[https://www.storycollider.org/[+]online story hour]], every Friday at 7pm ET."
   - live: "Airbnb online [[https://www.airbnb.com/s/experiences[+]experiences]]."
   - live: "Virtual [[https://creativemornings.com/blog/creativemornings-goes-virtual[+]CreativeMornings]]."
   - live: "Caveat [[https://www.caveat.nyc/[+]livestreams]] and [[https://www.youtube.com/channel/UC3b57CBtNx-cXPRdldkst7g/videos[+]YouTube channel]]."

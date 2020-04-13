@@ -11,6 +11,7 @@ events:
   - lists: "[[https://thoughtgallery.org/events-2/[+]Thought Gallery]] online events listing."
   - live: "Airbnb online [[https://www.airbnb.com/s/experiences[+]experiences]]."
   - museums: "The Frick [[https://www.frick.org/visit/virtual_tour[+]virtual tours]] and [[https://www.frick.org/calendar[+]online events]]."
+  - live: "Story Collider's [[https://www.storycollider.org/[+]online story hour]], every Friday at 7pm ET."
   - recorded: "Mailchimp presents the [[https://mailchimp.com/presents/sxsw/waffle[+]SXSW Short Film Festival]] online."
   - live: "City Arts & Lectures [[https://www.cityarts.net/[+]webcast schedule]] and [[https://www.youtube.com/channel/UC4SY6tgfcPADaPlo_yD1sYQ[+]YouTube channel]]."
   - kids: "[[http://www.oatthegoat.co.nz/[+]Oat the Goat]], an interactive animated story."
@@ -47,6 +48,7 @@ events:
   - live: "Secret Science Club [[http://secretscienceclub.blogspot.com/[+]online events]] (live programming to come)."
   - kids:  "[[https://www.jamesdysonfoundation.com/resources/challenge-cards.html[+]44 free engineering and science challenges]] from the James Dyson Foundation."
   - recorded: "The [[https://headspace.com/ny[+]Headspace meditation app]] is now free for New Yorkers."
+  - live: "Sofar Sounds [[https://www.sofarsounds.com/v/listeningroom[+]online listening room]] lets artists host live shows."
   - museums: "[[https://britishmuseum.withgoogle.com/[+]The British Museum]], visualized through time."
   - live-long: "These collections of [[https://www.design-museum.de/de/diskurs/interviews.html[+]interviews]], [[https://www.design-museum.de/de/diskurs/videos.html[+]videos]], and [[http://collection.design-museum.de/#/en/objects?_k=vageab[+]chairs]] from the Vitra Design Museum in Weil am Rhein, Germany. They also do [[https://www.instagram.com/vitradesignmuseum[+]live talks on Instagram]]."
   - museums: "Hollis Taggart [[https://www.hollistaggart.com/viewing-room/[+]viewing rooms]]."
@@ -66,3 +68,4 @@ events:
   - recorded: "Tribeca Film Festival [[https://www.tribecafilm.com/news[+]daily short films]]."
   - live: "New York Academy of Sciences [[https://www.nyas.org/events/?filter=Upcoming+Events[+]webinars]]."
   - recorded: "[[https://www.youtube.com/channel/UCdmPjhKMaXNNeCr1FjuMvag/videos[+]“The Shows Must Go On!,”]] a virtual series of Andrew Lloyd Webber Broadway musicals, free every Friday on YouTube."
+  
