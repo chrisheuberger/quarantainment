@@ -1,6 +1,9 @@
 # opening curly quotes: “
 # closing curly quotes: ”
 # apostrophe: ’
+
+# This version is the one used on the site. Make updates here.
+
 events:
   - recorded: "[[https://docs.google.com/document/d/10iOD7Wy_YU4NmkPU7ZH7YTrq11qJAANjZZ0PAotKhR8/preview?fbclid=IwAR3d6gte-hUx3d0-Bo5VBurCw8BarV-3artzK4DMmf7sbWJM9XoGgrFvqKo#[+]Google Doc]] listing board games, card games, puzzles, and more available online."
   - museums: "[[https://static.museothyssen.org/microsites/exposiciones/2020/Rembrandt/index_in.htm[+]Thyssen-Bornemisza Museum]] in Madrid, Spain."
@@ -29,13 +32,11 @@ events:
   - live-long: "[[https://newlab.com/events-calendar/[+]Newlab Virtual]], online programming from a startup collective located in the [[https://www.nytimes.com/2020/03/31/nyregion/coronavirus-ppe-supplies-brooklyn-navy-yard.html[+]Brooklyn Navy Yard]]."
   - live: "Draft & Draw [[http://www.draftanddraw.com/[+]Hangouts]] via Zoom."
   - kids-long: "Museum of Math’s free online math learning programs: [[https://momath.org/home/momath-online-student-sessions/free-friday/[+]Free Friday]] and [[https://momath.org/home/momath-online-student-sessions/[+]student sessions]]."
-  - recorded-long: "[[https://pressroom.warnermediagroup.com/us/media-release/hbo-0/stayhomeboxoffice/hbo-encourages-viewers-stayhomeboxoffice-hundreds-hours-free-programming[+]HBO is streaming]] dozens of shows, documentaries, and movies for free during April."
   - kids: "This [[https://docs.google.com/document/d/1o6kEgCKLn3cyIm2hehhhSTIk7yRTd0C3zx49JS4wwCI/preview?fbclid=IwAR0WypFSDWQemxcef_vL5TJtrhpokWvpm3X-Mmdpmb7fUmxZRAMayCx6etY[+]giant list]] of ideas for being home with kids."
   - lists: "The Social Distancing Festival is [[https://www.socialdistancingfestival.com/[+]a collection of livestreams]] from around the world."
   - live: "[[https://explore.org/livecams[+]Explore.org nature web cams]] (always online and fun to browse)."
   - recorded: "92Y [[https://www.92y.org/archives[+]events archive]]."
   - live: "Virtual [[https://nyc.nerdnite.com/[+]Nerd Nites]] (via Microsoft Teams) and [[https://www.youtube.com/nerdnite[+]past events]]."
-  - recorded-long: "[[https://www.blinkist.com/[+]The Blinkist app]] which does abbreviated non-fiction audiobooks is offering free premium subscriptions (no credit card required) through April 25."
   - live: "[[https://www.cntraveler.com/story/virtual-travel-from-yosemite-to-amsterdam-with-these-livestreams[+]Virtual travel]] livestreams."
   - kids-long: "[[https://www.youtube.com/playlist?list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or[+]Think Like a Coder]] is a 10-episode series from TED-Ed of a sci-fi adventure incorporating programming puzzles and concepts along the way."
   - recorded: "[[https://archive.org/details/OTRR_Suspense_Singles/[+]<em>Suspense</em>]], an old-time radio drama series."
@@ -47,11 +48,11 @@ events:
   - museums: "The Louvre [[https://www.louvre.fr/en/visites-en-ligne[+]online tours]]."
   - lists: "[[https://theskint.com/[+]The Skint]] online events listing."
   - live: "Secret Science Club [[http://secretscienceclub.blogspot.com/[+]online events]] (live programming to come)."
-  - kids:  "[[https://www.jamesdysonfoundation.com/resources/challenge-cards.html[+]44 free engineering and science challenges]] from the James Dyson Foundation."
-  - recorded: "The [[https://headspace.com/ny[+]Headspace meditation app]] is now free for New Yorkers."
+  - kids: "[[https://www.jamesdysonfoundation.com/resources/challenge-cards.html[+]44 free engineering and science challenges]] from the James Dyson Foundation."
+  - recorded: "Try a free trial of a meditation app. [[https://headspace.com/ny[+]Headspace]] and [[https://www.calm.com/[+]Calm]] are both terrific."
   - live: "Sofar Sounds [[https://www.sofarsounds.com/v/listeningroom[+]online listening room]] lets artists host live shows."
   - museums: "[[https://britishmuseum.withgoogle.com/[+]The British Museum]], visualized through time."
-  - live-long: "These collections of [[https://www.design-museum.de/de/diskurs/interviews.html[+]interviews]], [[https://www.design-museum.de/de/diskurs/videos.html[+]videos]], and [[http://collection.design-museum.de/#/en/objects?_k=vageab[+]chairs]] from the Vitra Design Museum in Weil am Rhein, Germany. They also do [[https://www.instagram.com/vitradesignmuseum[+]live talks on Instagram]]."
+  - live-long: "These collections of [[https://www.design-museum.de/en/about-design/interviews.html[+]interviews]], [[https://www.design-museum.de/en/about-design/videos.html[+]videos]], and [[http://collection.design-museum.de/#/en/objects?_k=vageab[+]chairs]] from the Vitra Design Museum in Weil am Rhein, Germany. They also do [[https://www.instagram.com/vitradesignmuseum[+]live talks on Instagram]]."
   - museums: "Hollis Taggart [[https://www.hollistaggart.com/viewing-room/[+]viewing rooms]]."
   - live-long: "The Brooklyn Public Library (like many libraries) is hosting [[https://www.bklynlibrary.org/calendar/list[+]virtual events]] for adults and kids and of course you can always [[https://www.bklynlibrary.org/borrow/ebooks-audiobooks[+]borrow ebooks]] to a Kindle or use one of their apps."
   - recorded: "Met Opera [[https://www.metopera.org/[+]performances]]. View schedule [[https://www.metopera.org/about/press-releases/[+]here]]."
@@ -63,7 +64,6 @@ events:
   - recorded: "Intelligence Squared U.S. [[https://www.intelligencesquaredus.org/debates[+]debate archive]]."
   - kids: "[[https://www.colorabl.es/[+]Colorables]], a collection of free printable coloring pages."
   - live: "Brooklyn Public Philosophers’ [[https://www.facebook.com/brooklynpublicphilosophers/[+]“Ask a Philosopher”]] on Facebook Live."
-  - recorded: "[[https://www.pluralsight.com/[+]Pluralsight]] (learn how to code online) is free for April."
   - museums: "Pace Gallery [[https://www.pacegallery.com/viewing-rooms/[+]viewing rooms]] (free signup required)."
   - kids-long: "Online coding courses(for kids): [[https://codeavengers.com[+]Code Avengers]], [[https://codecombat.com[+]CodeCombat]], [[https://codemoji.com[+]Codemoji]], [[https://www.kodable.com/[+]Kodable]], [[https://scratch.mit.edu[+]Scratch]], [[https://tynker.com[+]Tynker]], and [[https://code.org[+]Code.org]]."
   - recorded: "Tribeca Film Festival [[https://www.tribecafilm.com/news[+]daily short films]]."
@@ -87,3 +87,9 @@ events:
   - live-long: "[[https://www.wassaicproject.org/[+]Wassaic Project]] is an amazing artist collective that holds open studios and exhibitions on Instagram Live and Zoom."
   - recorded-long: "[[https://www.nationaltheatre.org.uk/nt-at-home[+]The National Theatre in London]] is posting [[https://www.youtube.com/channel/UCUDq1XzCY0NIOYVJvEMQjqw[+]a recording of one of their full-length plays]] every Thursday, available for one week thereafter."
   - recorded: "An introduction to [[https://www.nytimes.com/2020/04/24/movies/streaming-vod-guide.html[+]watching movies online]]."
+  - recorded: "Sean Carroll’s [[https://www.youtube.com/watch?v=HI09kat_GeI&list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX[+]Biggest Ideas in the Universe]]."
+  - recorded-long: "An awe-inspiring [[https://www.nytimes.com/interactive/2015/science/space/out-there.html[+]NYT series on the cosmos]] covering some of our latest discoveries and explorations."
+  - recorded-long: "A two-season C-SPAN series called [[http://landmarkcases.c-span.org/[+]Landmark Cases]] on important Supreme Court rulings. Or [[https://www.c-span.org/podcasts/subpage/?series=lanmarkCases[+]listen to it in podcast form]]."
+  - kids-long: "A mesmerizing app called [[https://shop-us.kurzgesagt.org/products/universe-in-a-nutshell-app[+]Universe in a Nutshell]] from the good people at [[https://www.youtube.com/c/inanutshell/videos[+]Kurzgesagt]]."
+  - recorded-long: "[[https://www.youtube.com/c/KraigAdams/videos[+]These hiking videos by Kraig Adams]]. His hikes in [[https://www.youtube.com/watch?v=iVmw1cdla50[+]the Grand Tetons]] and [[https://www.youtube.com/watch?v=l3S59EfTfP0[+]the Picos de Europa]] in Spain are especially sublime."
+  - recorded: "Try a [[https://www.thegreatcoursesplus.com/[+]Great Courses Plus]] free trial."

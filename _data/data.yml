@@ -1,6 +1,9 @@
 # opening curly quotes: “
 # closing curly quotes: ”
 # apostrophe: ’
+
+# This version is not used, kept for archive purposes.
+
 events:
   - live: "Sofar Sounds [[https://www.sofarsounds.com/v/listeningroom[+]online listening room]] lets artists host live shows."
   - live: "Story Collider’s [[https://www.storycollider.org/[+]online story hour]], every Friday at 7pm ET."
@@ -40,7 +43,7 @@ events:
   - recorded-long: "Patrick Stewart is reading [[https://www.instagram.com/p/B-DeQAGh4eS/[+]a Shakespeare sonnet every day]] on Instagram."
   - recorded: "Intelligence Squared U.S. [[https://www.intelligencesquaredus.org/debates[+]debate archive]]."
   - recorded: "Google Arts & Culture [[https://artsandculture.withgoogle.com/en-us/national-parks-service/[+]national park tours]]."
-  - recorded: "The [[https://headspace.com/ny[+]Headspace meditation app]] is now free for New Yorkers."
+  - recorded: "Try a free trial of a meditation app. [[https://headspace.com/ny[+]Headspace]] and [[https://www.calm.com/[+]Calm]] are both terrific."
   - recorded-long: "[[https://www.blinkist.com/[+]The Blinkist app]] which does abbreviated non-fiction audiobooks is offering free premium subscriptions (no credit card required) through April 25."
   - recorded: "[[https://archive.org/details/OTRR_Suspense_Singles/[+]<em>Suspense</em>]], an old-time radio drama series."
   - recorded: "Brooklyn Brainery [[https://brooklynbrainery.com/courses[+]online classes]]."
@@ -70,7 +73,7 @@ events:
   - museums: "Museum of Natural History [[https://naturalhistory.si.edu/visit/virtual-tour[+]virtual tours]]."
   - museums: "Virtual tours of [[https://www.housebeautiful.com/lifestyle/g32258176/libraries-tour-virtually-prague-morgan-nypl/?ref=briefingday.com[+]stunning libraries]] from around the world."
   - kids-long: "American Museum of Natural History [[https://www.amnh.org/explore/ology[+]games and projects for kids]], Space vs Dinos [[https://www.youtube.com/playlist?list=PLrfcruGtplwFYBug4BQlK1BLGUbo2hPFh[+]YouTube channel]], and [[https://www.amnh.org/explore/ology/zoology/north-american-mammals-coloring-book[+]coloring book]] with real dioramas for reference."
-  - kids:  "[[https://www.jamesdysonfoundation.com/resources/challenge-cards.html[+]44 free engineering and science challenges]] from the James Dyson Foundation."
+  - kids: "[[https://www.jamesdysonfoundation.com/resources/challenge-cards.html[+]44 free engineering and science challenges]] from the James Dyson Foundation."
   - kids-long: "Museum of Math’s free online math learning programs: [[https://momath.org/home/momath-online-student-sessions/free-friday/[+]Free Friday]] and [[https://momath.org/home/momath-online-student-sessions/[+]student sessions]]."
   - kids: "[[https://www.explodingdots.org/[+]Exploding Dots]] online learning series for playing with mathematical concepts."
   - kids: "[[https://www.youtube.com/results?search_query=%23MoLunchDoodles[+]Lunch Doodles with Mo Willems]]. Make [[https://www.youtube.com/watch?v=K5guOVOuVMs[+]a game]] or [[https://www.youtube.com/watch?v=N90fLxaBCGE [+]a town]]."
